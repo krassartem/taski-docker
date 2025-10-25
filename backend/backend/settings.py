@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '89.169.170.34', 'https://taski-awowking.ddns.net']
+ALLOWED_HOSTS = ['localhost', '89.169.170.34', 'taski-awowking.ddns.net']
 
 
 # Application definition
